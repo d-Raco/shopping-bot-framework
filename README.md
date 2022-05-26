@@ -22,7 +22,7 @@ Modular bot for checking and purchasing stock in online stores.
 + [Requirements](https://github.com/rymond3/shopping-bot-framework#requirements)
 + [Usage](https://github.com/rymond3/shopping-bot-framework#usage)
 + [File Structure](https://github.com/rymond3/shopping-bot-framework#file-structure)
-+ [Developing](https://github.com/rymond3/shopping-bot-framework#developing-modules)
++ [Development Guide](https://github.com/rymond3/shopping-bot-framework#development-guide)
   - [Website Module](https://github.com/rymond3/shopping-bot-framework#website-module)
   - [Alert Module](https://github.com/rymond3/shopping-bot-framework#alert-module)
   - [Action](https://github.com/rymond3/shopping-bot-framework#action)
@@ -128,7 +128,7 @@ def init_globals():
     └── browser.py - # Class used to manage a selenium webdriver
 ```
 
-## Developing Modules
+## Development Guide
 
 Guide on how to develop different parts of the bot:
 
