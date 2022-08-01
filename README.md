@@ -66,7 +66,7 @@ Then, download the [geckodriver](https://github.com/mozilla/geckodriver/releases
 
 ## Usage
 
-Make sure you comply with the [Requirements](https://github.com/rymond3/shopping-bot-framework#requirements).
+Make sure you comply with the [Requirements](https://github.com/d-Raco/shopping-bot-framework#requirements).
 
 Download this repository. In the file called `globals.py` you have to set your variables:
 - `time_interval`: specifies the number of seconds to wait until checking the stock again.
