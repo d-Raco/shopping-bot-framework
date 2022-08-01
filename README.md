@@ -1,11 +1,11 @@
-<p align="center"><a href="https://github.com/rymond3/shopping-bot-framework"><img width="100%" src="img/sbf.png" /></a></p>
+<p align="center"><a href="https://github.com/d-Raco/shopping-bot-framework"><img width="100%" src="img/sbf.png" /></a></p>
 
 <p align="center">
-  <a href="#"><img alt="License" src="https://img.shields.io/github/license/rymond3/shopping-bot-framework"></a>
+  <a href="#"><img alt="License" src="https://img.shields.io/github/license/d-Raco/shopping-bot-framework"></a>
   <a href="#"><img alt="Platform" src="https://shields.io/badge/platform-linux%20|%20windows%20|%20ios-%23989898"></a>
-  <a href="#"><img alt="Last commit" src="https://shields.io/github/last-commit/rymond3/shopping-bot-framework"></a>
-  <a href="#"><img alt="Repo stars" src="https://img.shields.io/github/stars/rymond3/shopping-bot-framework"></a>
-  <a href="#"><img alt="Repo stars" src="https://img.shields.io/github/watchers/rymond3/shopping-bot-framework"></a>
+  <a href="#"><img alt="Last commit" src="https://shields.io/github/last-commit/d-Raco/shopping-bot-framework"></a>
+  <a href="#"><img alt="Repo stars" src="https://img.shields.io/github/stars/d-Raco/shopping-bot-framework"></a>
+  <a href="#"><img alt="Repo stars" src="https://img.shields.io/github/watchers/d-Raco/shopping-bot-framework"></a>
 </p>
 
 # shopping-bot-framework
@@ -14,19 +14,19 @@ Modular bot for checking and purchasing stock in online stores.
 
 ## Table of Contents
 
-[shopping-bot-framework](https://github.com/rymond3/shopping-bot-framework#shopping-bot-framework)
-+ [Table of Contents](https://github.com/rymond3/shopping-bot-framework#table-of-contents)
-+ [Introduction](https://github.com/rymond3/shopping-bot-framework#introduction)
-+ [Motivation](https://github.com/rymond3/shopping-bot-framework#motivation)
-+ [Features](https://github.com/rymond3/shopping-bot-framework#features)
-+ [Requirements](https://github.com/rymond3/shopping-bot-framework#requirements)
-+ [Usage](https://github.com/rymond3/shopping-bot-framework#usage)
-+ [File Structure](https://github.com/rymond3/shopping-bot-framework#file-structure)
-+ [Development Guide](https://github.com/rymond3/shopping-bot-framework#development-guide)
-  - [Website Module](https://github.com/rymond3/shopping-bot-framework#website-module)
-  - [Alert Module](https://github.com/rymond3/shopping-bot-framework#alert-module)
-  - [Action](https://github.com/rymond3/shopping-bot-framework#action)
-+ [ToDos](https://github.com/rymond3/shopping-bot-framework#todos)
+[shopping-bot-framework](https://github.com/d-Raco/shopping-bot-framework#shopping-bot-framework)
++ [Table of Contents](https://github.com/d-Raco/shopping-bot-framework#table-of-contents)
++ [Introduction](https://github.com/d-Raco/shopping-bot-framework#introduction)
++ [Motivation](https://github.com/d-Raco/shopping-bot-framework#motivation)
++ [Features](https://github.com/d-Raco/shopping-bot-framework#features)
++ [Requirements](https://github.com/d-Raco/shopping-bot-framework#requirements)
++ [Usage](https://github.com/d-Raco/shopping-bot-framework#usage)
++ [File Structure](https://github.com/d-Raco/shopping-bot-framework#file-structure)
++ [Development Guide](https://github.com/d-Raco/shopping-bot-framework#development-guide)
+  - [Website Module](https://github.com/d-Raco/shopping-bot-framework#website-module)
+  - [Alert Module](https://github.com/d-Raco/shopping-bot-framework#alert-module)
+  - [Action](https://github.com/d-Raco/shopping-bot-framework#action)
++ [ToDos](https://github.com/d-Raco/shopping-bot-framework#todos)
 
 ## Introduction
 
