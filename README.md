@@ -5,7 +5,7 @@
   <a href="#"><img alt="Platform" src="https://shields.io/badge/platform-linux%20|%20windows%20|%20ios-%23989898"></a>
   <a href="#"><img alt="Last commit" src="https://shields.io/github/last-commit/d-Raco/shopping-bot-framework"></a>
   <a href="#"><img alt="Repo stars" src="https://img.shields.io/github/stars/d-Raco/shopping-bot-framework"></a>
-  <a href="#"><img alt="Repo stars" src="https://img.shields.io/github/watchers/d-Raco/shopping-bot-framework"></a>
+  <a href="#"><img alt="Repo watchers" src="https://img.shields.io/github/watchers/d-Raco/shopping-bot-framework"></a>
 </p>
 
 # shopping-bot-framework
