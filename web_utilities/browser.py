@@ -32,10 +32,9 @@ class Browser():
         
         opt = Options()
         opt.add_argument('--headless')
-        profile = webdriver.FirefoxProfile()
-        profile.set_preference('browser.privatebrowsing.autostart', True)
+        opt.set_preference('browser.privatebrowsing.autostart', True)
 
-        self.driver = webdriver.Firefox(options=opt, firefox_profile=profile)
+        self.driver = webdriver.Firefox(options=opt)
 
     def get_html(self, url):
         '''Access a specific URL and get its HTML page source.
